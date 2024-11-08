@@ -1,0 +1,72 @@
+{"0": {
+    "doc": "Authoring",
+    "title": "Authoring",
+    "content": " ",
+    "url": "/tools/authoring.html",
+    
+    "relUrl": "/tools/authoring.html"
+  },"1": {
+    "doc": "Tools",
+    "title": "Tools",
+    "content": "This IPS server . A paragraph… . A paragraph… . ",
+    "url": "/tools/",
+    
+    "relUrl": "/tools/"
+  },"2": {
+    "doc": "IPS FAQ",
+    "title": "IPS FAQ",
+    "content": " ",
+    "url": "/faq/",
+    
+    "relUrl": "/faq/"
+  },"3": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "The IPS kit… . Server FAQ . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"4": {
+    "doc": "IPS vs IPA",
+    "title": "IPS vs IPA",
+    "content": " ",
+    "url": "/faq/ips-ipa.html",
+    
+    "relUrl": "/faq/ips-ipa.html"
+  },"5": {
+    "doc": "Can the IPS be used as an EHR?",
+    "title": "Can the IPS be used as an EHR?",
+    "content": "Can the IPS be used as an EHR? . Well, no . ",
+    "url": "/faq/ips-vs-ehr.html",
+    
+    "relUrl": "/faq/ips-vs-ehr.html"
+  },"6": {
+    "doc": "Other FAQs",
+    "title": "Other FAQs",
+    "content": " ",
+    "url": "/faq/other-faqs.html",
+    
+    "relUrl": "/faq/other-faqs.html"
+  },"7": {
+    "doc": "IPS Server",
+    "title": "Running the server",
+    "content": "The IPS sandbox has all the features included. To use it, simply get the files in the ips-server folder and run docker compose up. You’ll see the server landing page on http://localhost:8080 or another URL you may have selected. Feel free to clone and adapt and provide feedback to our community. ",
+    "url": "/tools/server.html#running-the-server",
+    
+    "relUrl": "/tools/server.html#running-the-server"
+  },"8": {
+    "doc": "IPS Server",
+    "title": "IPS Server",
+    "content": "Using the FHIR IPS specification in a lab or sandbox setting is a great way to get familiar with what the IPS is and isn’t meant for. In this repository we also include a FHIR Server preconfigured with a few IPS enabler features: . | Fully working FHIR server with the IPS conformance artefacts uploaded | A Validator frontend for ease of use by non-technical people | Sample content | A simple IPS viewer for displaying an IPS content in a simpler, more friendly way. | . These features are growing (with your help - please feel free to contribute) and are meant to enable developers, analysts and innovators to focus on building upon the IPS. ",
+    "url": "/tools/server.html",
+    
+    "relUrl": "/tools/server.html"
+  },"9": {
+    "doc": "IPS Viewers",
+    "title": "IPS Viewers",
+    "content": " ",
+    "url": "/tools/viewers.html",
+    
+    "relUrl": "/tools/viewers.html"
+  }
+}
