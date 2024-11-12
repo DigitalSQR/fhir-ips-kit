@@ -14,3 +14,4 @@ To help in the journey to use IPS in combination with other adjacent, related, u
 > License
 > 
 > This content was developed by Digital Square at PATH and is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share, copy, adapt, and redistribute the material, provided appropriate credit is given, a link to the license is provided, and any changes are indicated.
+
