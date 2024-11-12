@@ -5,6 +5,9 @@ parent: Tools
 nav_order: 1
 ---
 
+## Server 
+---
+
 Using the FHIR IPS specification in a lab or sandbox setting is a great way to get familiar with what the IPS is and isn't meant for.
 In this repository we also include a FHIR Server preconfigured with a few IPS enabler features:
 * Fully working FHIR server with the IPS conformance artefacts uploaded
