@@ -22,7 +22,7 @@ These features are growing (with your help - please feel free to contribute) and
 The IPS sandbox has all the features included. To use it, simply get the files in the [`ips-server`](link.html) folder and run `docker compose up`. You'll see the server landing page on `http://localhost:8080` or another URL you may have selected. 
 
 <br clear ="ALL"/>
-<img src="assets/images/server-screenshot.png" alt="Timeline" width="800">
+<img src="../assets/images/server-screenshot.png" alt="Timeline" width="800">
 
 
 Feel free to clone and adapt and provide feedback to our community.
