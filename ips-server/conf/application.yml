@@ -57,7 +57,7 @@ hapi:
     allow_multiple_delete: true
     allow_override_default_search_params: true
     auto_create_placeholder_reference_targets: false
-    ips_enabled: false
+    ips_enabled: true
     language_search_parameter_enabled: true
     #default_encoding: JSON
     #default_pretty_print: true
